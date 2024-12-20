@@ -1,0 +1,8 @@
+#[gui]
+	
+[user]
+	name = Faisal Ahmed
+	email = faisalahmed3517@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = input
